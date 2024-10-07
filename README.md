@@ -36,7 +36,7 @@
 
 ### 🤝 Connect with me:
 <p align="center">
-  <a href="www.linkedin.com/in/yatesh-bansal-bansalyatesh" target="blank">
+  <a href="www.linkedin.com/in/yatesh-bansal-bansalyatesh/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="50" width="50" style="filter: drop-shadow(0 0 5px #000);" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/bansalyatesh" target="blank">
