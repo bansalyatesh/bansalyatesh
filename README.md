@@ -7,7 +7,7 @@
 - 💼 I’m currently working as a **Data Science Trainee at AlmaBetter**. Previously, I interned at **Innobyte Services** as a **Data Analyst Intern** and at **Cognifyz Technologies** as a **Power BI Intern**.
 - 💬 Ask me about **Data Science, Machine Learning, SQL, Power BI, and Python**
 - 📫 How to reach me: **yateshbansal382@gmail.com**
-- 📄 **My Resumes**: [Data Analyst Resume] (https://drive.google.com/file/d/1Ua1zqEGZb-IqETDWW7IS8lcEtI_Gcljq/view?usp=sharing) 
+- 📄 **My Resumes**: [Data Analyst Resume](https://drive.google.com/file/d/1Ua1zqEGZb-IqETDWW7IS8lcEtI_Gcljq/view?usp=sharing)
 - ⚡ Fun fact: **I love extracting insights from messy data and creating interactive dashboards!**
 
 ### 🛠️ Languages and Tools:
